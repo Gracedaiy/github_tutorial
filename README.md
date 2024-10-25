@@ -10,7 +10,7 @@ Forking: Make a copy of someone's public github repository to your own account.
 Find the green "<> Code" button, and copy the URL 
 This will copy the repository to your local machine. 
 
-Open R Studio, 
+Open R Studio, Heyyyyyy!
 File, New Project, Version Control, Git, paste the URL in the "Repository URL" box.
 
 You now have a local copy of the repository on your machine.
@@ -19,7 +19,7 @@ You now have a local copy of the repository on your machine.
 
 A README file is useful! It will render as the main page on GitHub. Useful for explaining what your project is, how to use it, and what is contained. 
 
-Write somethign here, or correct my typo!
+Write something here, or correct my typo!
 Save file 
 
 ### Version control: How/why
